@@ -1,0 +1,7 @@
+{
+  "name": "taller-programacion",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
